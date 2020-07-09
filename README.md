@@ -12,4 +12,4 @@ My friends say I'm a tenacious problem solver and I love them for it 😄. I lov
 - 💬 Ask me about React, JavaScript, web design, agile teams, ci/cd, with some anime and kdrama on the side.
 - 📫 How to reach me: hello@nnadozie.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was born with a github 404 unicorn tatto and [@tosinfarai](https://github.com/tosinfarai) is the best #100DaysOfCode partner ever. 
+- ⚡ Fun fact: I was born with a github 404 unicorn tattoo and [@tosinfarai](https://github.com/tosinfarai) is the best #100DaysOfCode partner ever. 
