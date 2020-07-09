@@ -3,7 +3,7 @@
 <!--
 **Nnadozie/Nnadozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My friends say I'm a tenacious problem solver and I love them for it 😄. I love [https://compexafrica.com/](taking on challenging projects), [https://qmrs.co.uk/](building awesome societies), loving [https://nnadozie.com/](technology), and live for [https://www.linkedin.com/](continuos learning) ⚡.
+My friends say I'm a tenacious problem solver and I love them for it 😄. I love [taking on challenging projects](https://compexafrica.com/), [building awesome societies](https://qmrs.co.uk/), loving [technology](https://nnadozie.com/), and live for [continuos learning](https://www.linkedin.com/) ⚡.
 
 - 🔭 I’m currently working on mentoring Google Africa Developer Scholars.
 - 🌱 I’m currently learning how to build massively parrallel, concurrent and distributed systems for financial applications.
