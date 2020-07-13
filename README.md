@@ -6,7 +6,7 @@
 My friends say I'm a tenacious problem solver and I love them for it 😄. I love [taking on challenging projects](https://compexafrica.com/), [building awesome societies](https://qmrs.co.uk/), loving [technology](https://nnadozie.com/), and live for [continuos learning](https://www.linkedin.com/) ⚡.
 
 - 🔭 I’m currently working on mentoring Google Africa Developer Scholars.
-- 🌱 I’m currently learning how to build massively parrallel, concurrent and distributed systems for financial applications.
+- 🌱 I’m currently learning how to build massively parallel, concurrent and distributed systems for financial applications.
 - 👯 I’m looking to collaborate on showcasing African tech talent to the world.
 - 🤔 I’m looking for help with a new role as a front-end focused full-stack developer.
 - 💬 Ask me about React, JavaScript, web design, agile teams, ci/cd, with some anime and kdrama on the side.
