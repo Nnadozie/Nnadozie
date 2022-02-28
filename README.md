@@ -20,7 +20,7 @@ If I'm successfull with my self-development plan for the year 2022, I'll be expa
 ### I'm also currently:
 
 - working through relevant aspects of Intro to Algorithms by CLRS, Leetcode tutorials, and Cracking the Coding Interview,
-- attempting to practice leetcode problems daily
+- and attempting to practice leetcode problems daily
 
 to get faster at solving difficult leetcode problems so that I can overcome my coding interviewing anxiety, and better apply myself to technical problems I may face in real life. My goal is to rank consistently in the 90th percentile on leetcode contests. Right now I rank in the 30th - 40th percentile so still a long way to go.
 
