@@ -22,7 +22,7 @@ If I'm successfull with my self-development plan for the year 2022, I'll be expa
 - working through relevant aspects of Intro to Algorithms by CLRS, Leetcode tutorials, and Cracking the Coding Interview,
 - and attempting to practice leetcode problems daily
 
-to get faster at solving difficult leetcode problems so that I can overcome my coding interviewing anxiety, and better apply myself to technical problems I may face in real life. My goal is to rank consistently in the 90th percentile on leetcode contests. Right now I rank in the 30th - 40th percentile so still a long way to go.
+to get faster at solving difficult leetcode problems so that I can overcome my coding interviewing anxiety, and better apply myself to technical problems I may face in real life. My goal is to rank consistently in the 90th percentile on leetcode contests. Right now I rank in the 30th - 40th percentile so I still a long way to go.
 
 The best way to reach me is via [Linkedin](https://www.linkedin.com/in/nnadozie-okeke/), [Twitter](https://twitter.com/dozieokk), or e-mail at dozie@fronte.io.
 
