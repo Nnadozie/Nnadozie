@@ -28,7 +28,7 @@ The best way to reach me is via [Linkedin](https://www.linkedin.com/in/nnadozie-
 
 ### In the future
  - I'd like to continue learning how to build massively parallel, concurrent and distributed systems for financial applications.
- - Make out the time to build out another [passion project](https://www.figma.com/file/SGuw31bQRw87e82HV9vOas/House-Points?node-id=14%3A27), which is the reason I'll be learning Swift later this year.
+ - Make out the time to build out another [passion project](https://www.figma.com/proto/SGuw31bQRw87e82HV9vOas/House-Points?node-id=343%3A2931&scaling=min-zoom&page-id=14%3A27&starting-point-node-id=343%3A2931), which is the reason I'll be learning Swift later this year.
 
 ### Mentorship
 People tend to reach out to ask about CV, career, job application, or technical advise. If you're planning to do this, please reach out on Twitter, but please keep in mind that I'm also still figuring out this thing called life 😅 and all my answers typically involve YOU doing a ton of work.
