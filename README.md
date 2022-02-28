@@ -24,11 +24,12 @@ If I'm successfull with my self-development plan for the year 2022, I'll be expa
 
 to get faster at solving difficult leetcode problems so that I can overcome my coding interviewing anxiety, and better apply myself to technical problems I may face in real life. My goal is to rank consistently in the 90th percentile on leetcode contests. Right now I rank in the 30th - 40th percentile so I still a long way to go.
 
-The best way to reach me is via [Linkedin](https://www.linkedin.com/in/nnadozie-okeke/), [Twitter](https://twitter.com/dozieokk), or e-mail at dozie@fronte.io.
-
 ### In the future
  - I'd like to continue learning how to build massively parallel, concurrent and distributed systems for financial applications.
  - Make out the time to build out another [passion project](https://www.figma.com/proto/SGuw31bQRw87e82HV9vOas/House-Points?node-id=343%3A2931&scaling=min-zoom&page-id=14%3A27&starting-point-node-id=343%3A2931), which is the reason I'll be learning Swift later this year.
+
+### How to reach me
+The best way to reach me is via [Linkedin](https://www.linkedin.com/in/nnadozie-okeke/), [Twitter](https://twitter.com/dozieokk), or e-mail at dozie@fronte.io.
 
 ### Mentorship
 People tend to reach out to ask about CV, career, job application, or technical advise. If you're planning to do this, please reach out on Twitter, but please keep in mind that I'm also still figuring out this thing called life 😅 and all my answers typically involve YOU doing a ton of work.
