@@ -13,7 +13,7 @@ Hi 👋, you can call me Dozie 😄. My friends say I'm a tenacious problem solv
 If I'm successfull with my self-development plan for the year 2022, I'll be expanding this to include Webflow, and Swift (why Swift and not Flutter, React Native or Android? - DM me on twitter @dozieokk, I'd love to chat with you!).
 
 ### In Q1 2022 I:
-- read Effective Typescript by Dan Vanderkam - to improve my knowledge of Typescript,
+- completed reading Effective Typescript by Dan Vanderkam - to improve my knowledge of Typescript,
 - worked on a [Leetcode contest api](https://github.com/Nnadozie/leetcode-contest-api) (discontinued) - to practice what I read,
 - and wrote about both on my blog https://dozie.dev - to share what I was learning
 
