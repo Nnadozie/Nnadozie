@@ -12,22 +12,25 @@ Hi 👋, you can call me Dozie 😄. My friends say I'm a tenacious problem solv
 
 If I'm successfull with my self-development plan for the year 2022, I'll be expanding this to include Webflow, and Swift (why Swift and not Flutter, React Native or Android? - DM me on twitter @dozieokk, I'd love to chat with you!).
 
-### At the moment I'm currently:
-- reading Effective Typescript by Dan Vanderkam - to improve my knowledge of Typescript,
-- working on a Leetcode contest percentile analyser - to practice what I'm reading,
-- and writing about both on my blog https://dozie.dev - to share what I'm learning
+### In Q1 2022 I:
+- read Effective Typescript by Dan Vanderkam - to improve my knowledge of Typescript,
+- worked on a [Leetcode contest api](https://github.com/Nnadozie/leetcode-contest-api) (discontinued) - to practice what I read,
+- and wrote about both on my blog https://dozie.dev - to share what I was learning
 
-### I'm also currently:
+### At the moment I'm working through major self-growth challenges spanning the 2nd to 4th quarters of 2022:
+- Growing [Fronte.io Ltd](https://find-and-update.company-information.service.gov.uk/company/11558261) to £1000 MRR by 2nd quarter end by focusing on building sleek marketing pages for startups using Webflow.
+- 195 days (3 quarters) of Intro to Algorithms by CLRS
+- 300 - 1000 words of daily technical writing for 3 quarters
+- 130 days (2 quarters) of implementing one data structure or one algorithm
+- 26 weeks (2 quarters) of competing in one leetcode contest
+- 65 days of [TypeScript challenges](https://github.com/type-challenges/type-challenges)
 
-- working through relevant aspects of Intro to Algorithms by CLRS, Leetcode tutorials, and Cracking the Coding Interview,
-- and attempting to practice leetcode problems daily
-
-to get faster at solving difficult leetcode problems so that I can overcome my coding interviewing anxiety, and better apply myself to technical problems I may face in real life. My goal is to rank consistently in the 90th percentile on leetcode contests. Right now I rank in the 30th - 40th percentile so I still a long way to go.
+and I will be sharing my progress publicly on Twitter @dozieokk.
 
 ### In the future
 I'd like to:
  - continue learning how to build massively parallel, concurrent and distributed systems for financial applications.
- - make out the time to build out another [passion project](https://www.figma.com/proto/SGuw31bQRw87e82HV9vOas/House-Points?node-id=343%3A2931&scaling=min-zoom&page-id=14%3A27&starting-point-node-id=343%3A2931), which is the reason I'll be learning Swift later this year.
+ - make out the time to build out another [passion project](https://www.figma.com/proto/SGuw31bQRw87e82HV9vOas/House-Points?node-id=343%3A2931&scaling=min-zoom&page-id=14%3A27&starting-point-node-id=343%3A2931), which is the reason I may be learning Swift later this year.
 
 ### How to reach me
 The best way to reach me is via [Linkedin](https://www.linkedin.com/in/nnadozie-okeke/), [Twitter](https://twitter.com/dozieokk), or e-mail at dozie@fronte.io.
