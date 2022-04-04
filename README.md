@@ -18,7 +18,7 @@ If I'm successfull with my self-development plan for the year 2022, I'll be expa
 - and wrote about both on my blog https://dozie.dev - to share what I was learning
 
 ### At the moment I'm working through major self-growth challenges spanning the 2nd to 4th quarters of 2022:
-- Growing [Fronte.io Ltd](https://find-and-update.company-information.service.gov.uk/company/11558261) to £1000 MRR by 2nd quarter end by focusing on building sleek marketing pages for startups using Webflow.
+- Growing [Fronte.io Ltd](https://find-and-update.company-information.service.gov.uk/company/13322472) to £1000 MRR by 2nd quarter end by focusing on building sleek marketing pages for startups using Webflow.
 - 195 days (3 quarters) of Intro to Algorithms by CLRS
 - 300 - 1000 words of daily technical writing for 3 quarters
 - 130 days (2 quarters) of implementing one data structure or one algorithm
