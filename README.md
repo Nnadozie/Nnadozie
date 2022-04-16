@@ -22,7 +22,7 @@ If I'm successfull with my self-development plan for the year 2022, I'll be expa
 - 195 days (3 quarters) of Intro to Algorithms by CLRS
 - 300 - 1000 words of daily technical writing for 3 quarters
 - 130 days (2 quarters) of implementing one data structure or one algorithm
-- 26 weeks (2 quarters) of competing in one leetcode contest
+- 26 weekends (2 quarters) of competing in one leetcode contest
 - 65 days of [TypeScript challenges](https://github.com/type-challenges/type-challenges)
 
 and I will be sharing my progress publicly on Twitter @dozieokk.
