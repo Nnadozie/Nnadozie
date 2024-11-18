@@ -1,4 +1,4 @@
-## Build the Adventure with Dozie🚀 👋
+## Build the Adventure with Dozie🚀 👋 | AI Engineer 
 
 <!--
 **Nnadozie/Nnadozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
